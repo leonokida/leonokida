@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Leon and I'm a Computer Science student from Brazil. I study at the Federal University of Paraná (UFPR) and I work at C3SL, a research and software development lab there.  
+My name is Leon and I'm a Computer Science student from Brazil. I study at the Federal University of Paraná (UFPR) and I'm currently working at the PRIME Lab at the Université de Moncton, in Canada.
 I have worked on AI, Front-End (and a little bit of Back-End) development projects.  
 I'm now looking forward to new opportunities to learn and new projects to work on.
 <!--
