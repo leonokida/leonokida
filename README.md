@@ -1,6 +1,6 @@
 ### Hi there 👋
-My name is Leon and I'm a Computer Science student from Brazil. I study at the Federal University of Paraná (UFPR) and I'm currently working at the PRIME Lab at the Université de Moncton, in Canada.
-I have worked on AI, Front-End (and a little bit of Back-End) development projects.  
+My name is Leon and I'm a Computer Science student from Brazil. I study at the Federal University of Paraná (UFPR).
+I have worked on Front-End and Back-End development projects and an AI research project.  
 I'm now looking forward to new opportunities to learn and new projects to work on.
 <!--
 **leonokida/leonokida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
