@@ -1,6 +1,6 @@
 ### Hi there 👋
-My name is Leon and I'm a Computer Science student from Brazil. I study at the Federal University of Paraná (UFPR).
-I have worked on Front-End and Back-End development projects and an AI research project.  
+My name is Leon and I recently graduated with a degree in Computer Science at the Federal University of Paraná (UFPR).
+I have worked on both front-end and back-end development projects as well as AI and AR research projects.  
 I'm now looking forward to new opportunities to learn and new projects to work on.
 <!--
 **leonokida/leonokida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
