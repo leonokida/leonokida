@@ -18,12 +18,7 @@ Here are some ideas to get you started:
 -->
 ---
 
-- 📫 How to reach me: You can reach me on [LinkedIn](https://www.linkedin.com/in/leon-gon%C3%A7alves-9941361ba/) or on my [Email](mailto:leonokida@hotmail.com).
-
----
-
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=leonokida&theme=dark&background=000000)](https://git.io/streak-stats)
+- 📫 How to reach me: You can reach me on [LinkedIn](https://www.linkedin.com/in/leon-gon%C3%A7alves-9941361ba/) or my [Email](mailto:leonokida@hotmail.com).
 
 ---
 
