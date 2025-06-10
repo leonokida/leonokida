@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 ---
 
-- 📫 How to reach me: You can reach me on [LinkedIn](https://www.linkedin.com/in/leon-gon%C3%A7alves-9941361ba/) or my [Email](mailto:leonokida@hotmail.com).
+- 📫 How to reach me: You can reach me on [LinkedIn](www.linkedin.com/in/leon-okida-9941361ba) or my [Email](mailto:leonokida@hotmail.com).
 
 ---
 
