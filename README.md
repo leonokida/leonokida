@@ -1,5 +1,6 @@
 ### Hi there 👋
-My name is Leon and I recently graduated with a degree in Computer Science at the Federal University of Paraná (UFPR).
+My name is Leon and I'm pursuing a Master's Degree in Informatics at the Federal University of Paraná (UFPR). I previously graduated in Computer Science at UFPR. My field of research is computer networks and fault-tolerant routing algorithms.  
+I currently work at the Paraná State Court of Auditors (TCE-PR) as an intern. I work with projects in AI.  
 I have worked on both front-end and back-end development projects as well as AI and AR research projects.  
 I'm now looking forward to new opportunities to learn and new projects to work on.
 <!--
@@ -17,9 +18,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ---
-
+- 😄 Pronouns: He/Him
+- 🌱 I’m currently learning: AI tools and Azure.
+- 💬 Ask me about: Fast-ReRoute and Network Routing.
 - 📫 How to reach me: You can reach me on [LinkedIn](https://www.linkedin.com/in/leon-okida-9941361ba) or my [Email](mailto:leonokida@hotmail.com).
-
+- ⚡ Fun facts: I'm learning French. Some of my personal interests are gaming and analog photography.
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
